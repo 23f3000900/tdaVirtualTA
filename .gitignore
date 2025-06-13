@@ -1,0 +1,31 @@
+# Ignore directories
+downloaded_threads/
+markdown_files/
+__pycache__/
+venv/
+.venv/
+
+# Ignore files
+.env
+preprocess.py
+*.pyc
+.DS_Store
+
+
+
+# Python
+__pycache__/
+.venv/
+*.py[cod]
+
+# Environment
+.env
+
+# Data
+downloaded_threads/
+markdown_chunks.pkl
+markdown_index.faiss
+
+# IDE/Editor
+.idea/
+.vscode/
